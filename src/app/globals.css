@@ -54,6 +54,10 @@
 
   --card-hover-shadow: 0 10px 40px rgba(150, 206, 180, 0.4);
   --transition-duration: 300ms;
+
+  --accent-color: #FFEEAD;
+  --glass-background: rgba(255, 255, 255, 0.25);
+  --neumorphic-shadow: 5px 5px 10px #d1d9e6, -5px -5px 10px #ffffff;
 }
 
     html {
