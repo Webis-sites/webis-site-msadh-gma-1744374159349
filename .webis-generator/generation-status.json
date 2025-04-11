@@ -1,8 +1,11 @@
 {
-  "projectName": "מסעדה-גמא-4159",
-  "businessName": "מסעדה גמא",
-  "created": "2025-04-11T12:22:39.472Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-11T12:23:43.401Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-msadh-gma-1744374159349"
 }
