@@ -46,6 +46,11 @@
   --button-transition-duration: 300ms;
   --button-active-shadow: inset 5px 5px 10px rgba(0,0,0,0.1), inset -5px -5px 10px rgba(255,255,255,0.7);
   --button-blur: 8px;
+
+  --background-color: #F7F7F7;
+  --text-color: #333333;
+  --transition-normal: all 0.3s ease;
+  --blur-amount: 5px;
 }
 
     html {
