@@ -20,6 +20,12 @@
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   --neumorphic-shadow-light: rgba(255, 255, 255, 0.1);
   --neumorphic-shadow-dark: rgba(0, 0, 0, 0.2);
+
+  --color-primary: #96CEB4;
+  --color-primary-light: #B5E2D0;
+  --color-secondary: #FF6B6B;
+  --shadow-neumorphic: 10px 10px 20px rgba(0, 0, 0, 0.1), -10px -10px 20px rgba(255, 255, 255, 0.5);
+  --shadow-neumorphic-hover: 15px 15px 30px rgba(0, 0, 0, 0.15), -15px -15px 30px rgba(255, 255, 255, 0.6);
 }
 
     html {
