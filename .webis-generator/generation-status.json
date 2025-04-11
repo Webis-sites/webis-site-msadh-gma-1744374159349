@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-11T12:23:43.401Z",
+  "timestamp": "2025-04-11T12:24:41.576Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with the restaurant name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and primary CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the restaurant's services and specialties"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant's food and ambiance"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information section"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer reviews and testimonials"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section to encourage reservations"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with copyright and additional links"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable button component with various styles"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable section header component with title and subtitle"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable card component for displaying content"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    },
+    {
+      "name": "Page",
+      "type": "page",
+      "status": "pending",
+      "description": "Main page component that composes all sections"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1744374159349"
 }
