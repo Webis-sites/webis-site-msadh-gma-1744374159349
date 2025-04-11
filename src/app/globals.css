@@ -9,7 +9,12 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #96CEB4;
       --secondary-color: #FF6B6B;
-    }
+    
+  --navbar-height: 4rem;
+  --navbar-blur: 8px;
+  --transition-speed: 0.3s;
+  --border-radius: 0.5rem;
+}
 
     html {
       scroll-behavior: smooth;
