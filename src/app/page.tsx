@@ -10,6 +10,7 @@ import ContactSection from '@/components/ContactSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
+import Button from '@/components/Button';
 
 export default function HomePage() {
   return (
@@ -26,6 +27,7 @@ export default function HomePage() {
         <TestimonialsSection />
         <CTASection />
         <Footer />
+        <Button />
       </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
