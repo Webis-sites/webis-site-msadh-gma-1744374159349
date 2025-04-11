@@ -51,6 +51,9 @@
   --text-color: #333333;
   --transition-normal: all 0.3s ease;
   --blur-amount: 5px;
+
+  --card-hover-shadow: 0 10px 40px rgba(150, 206, 180, 0.4);
+  --transition-duration: 300ms;
 }
 
     html {
