@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-11T12:29:02.155Z",
+  "timestamp": "2025-04-11T12:29:57.243Z",
   "status": {
     "totalComponents": 15,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 33
+    "progress": 40
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "FAQSection",
       "type": "faq",
-      "status": "pending",
+      "status": "completed",
       "description": "Frequently asked questions about the restaurant"
     },
     {
